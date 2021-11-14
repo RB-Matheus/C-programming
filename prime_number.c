@@ -4,7 +4,7 @@ int main(void){
 
     int n, i, collector = 0;
 
-    puts("Type a number:");
+    puts("Type a natural number:");
     scanf("%i", &n);
 
     if(n <= 1){
